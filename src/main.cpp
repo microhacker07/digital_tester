@@ -11,7 +11,7 @@
 #define SPAN_INPUT_PIN    4
 
 // number of times to do a full cycle in a second
-#define CLK_FULL_FREQUENCY     20
+#define CLK_FULL_FREQUENCY     0.25
 
 // // The number of times to toggle the CLK pin in a second
 // #define CLK_TOGGLE_FREQUENCY   (FULL_CLK_FREQUENCY /2)
